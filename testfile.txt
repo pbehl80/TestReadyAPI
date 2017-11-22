@@ -1,1 +1,2 @@
 This is GitHub Test.
+Update to Feature2
